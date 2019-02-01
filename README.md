@@ -32,9 +32,21 @@
 
 * [Как работает JS: сервис-воркеры](https://habr.com/ru/company/ruvds/blog/349858/)
 
-## React.js
+* [Обзор средств хранения данных на клиентской стороне](http://prgssr.ru/development/obzor-sredstv-hraneniya-dannyh-na-klientskoj-storone.html)
+
+* [Как работает JS: системы хранения данных](https://habr.com/ru/company/ruvds/blog/415505/)
 
 * []()
+
+* []()
+
+* []()
+
+* []()
+
+## React.js
+
+* [Почему у React элементов есть свойство $$typeof?](https://habr.com/ru/post/432350/)
 * [Keys in React. Готовим правильно](https://habr.com/ru/company/hh/blog/352150/)
 * []()
 * []()
