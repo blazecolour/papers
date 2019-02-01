@@ -12,6 +12,8 @@
 
 * [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) ([перевод](https://habr.com/ru/post/264993/))
 
+* [Faster async functions and promises](https://v8.dev/blog/fast-async)
+
 * [Как работает JS: управление памятью, четыре вида утечек памяти и борьба с ними](https://habr.com/ru/company/ruvds/blog/338150/)
 
 * [garbage.collect()](https://habr.com/ru/company/oleg-bunin/blog/433318/)
@@ -62,3 +64,11 @@
 * []()
 
 * []()
+
+## Design Patterns
+
+## DDD / REST / web API
+
+* [А ваша служба является RESTful? Все что необходимо/обязательно знать про веб службы и REST](https://habr.com/ru/post/319984/)
+
+## UI / UX
