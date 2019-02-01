@@ -6,7 +6,7 @@
 
 * [Цикл событий Node.js, таймеры и process.nextTick()](https://medium.com/devschacht/event-loop-timers-and-nexttick-18579cd122e0)
 
-* [Tasks, microtasks, queues and schedules] (https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) ([перевод](https://habr.com/ru/post/264993/))
+* [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) ([перевод](https://habr.com/ru/post/264993/))
 
 ## React.js
 
