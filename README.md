@@ -8,6 +8,34 @@
 
 * [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) ([перевод](https://habr.com/ru/post/264993/))
 
+* [Как работает JS: управление памятью, четыре вида утечек памяти и борьба с ними](https://habr.com/ru/company/ruvds/blog/338150/)
+
+* [garbage.collect()](https://habr.com/ru/company/oleg-bunin/blog/433318/)
+
+* [Как работает JS: движки рендеринга веб-страниц и советы по оптимизации их производительности](https://habr.com/ru/company/ruvds/blog/351802/)
+
+* [Как работают браузеры — введение в безопасность веб-приложений](https://habr.com/ru/company/edison/blog/432870/)
+
+* [Как быстрее DOM построить: парсинг, async, defer и preload](https://habr.com/ru/post/338840/)
+
+* [Понимание критического пути рендеринга](https://habr.com/ru/post/320430/)
+
+* [Простым языком об HTTP](https://habr.com/ru/post/215117/)
+
+* [Протоколы HTTP и WebSocket](https://habr.com/ru/company/ruvds/blog/424557/)
+
+* [Руководство по кросс-доменным запросам (CORS)](https://grishaev.me/cors)
+
+* [Учебное пособие по кэшированию, часть 1](https://habr.com/ru/post/203548/) [(часть 2)](https://habr.com/ru/post/204464/)
+
+* [Лучшие практики кэширования](http://prgssr.ru/development/luchshie-praktiki-keshirovaniya.html)
+
+* [Как работает JS: сервис-воркеры](https://habr.com/ru/company/ruvds/blog/349858/)
+
 ## React.js
 
+* []()
 * [Keys in React. Готовим правильно](https://habr.com/ru/company/hh/blog/352150/)
+* []()
+* []()
+* []()
