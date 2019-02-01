@@ -14,8 +14,6 @@
 
 * [Как работает JS: движки рендеринга веб-страниц и советы по оптимизации их производительности](https://habr.com/ru/company/ruvds/blog/351802/)
 
-* [Как работают браузеры — введение в безопасность веб-приложений](https://habr.com/ru/company/edison/blog/432870/)
-
 * [Как быстрее DOM построить: парсинг, async, defer и preload](https://habr.com/ru/post/338840/)
 
 * [Понимание критического пути рендеринга](https://habr.com/ru/post/320430/)
@@ -44,10 +42,15 @@
 
 * []()
 
+
 ## React.js
 
 * [Почему у React элементов есть свойство $$typeof?](https://habr.com/ru/post/432350/)
+
 * [Keys in React. Готовим правильно](https://habr.com/ru/company/hh/blog/352150/)
+
 * []()
+
 * []()
+
 * []()
