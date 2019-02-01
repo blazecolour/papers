@@ -47,13 +47,34 @@
 
 ## React.js / Redux
 
+* [React component structure](https://github.com/artalar/blog/blob/master/src/pages/react-component-structure.md)
+
+* [Как работает Virtual DOM ?](https://medium.com/@abraztsov/how-virtual-dom-work-567128ed77e9)
+
 * [Почему у React элементов есть свойство $$typeof?](https://habr.com/ru/post/432350/)
 
 * [Keys in React. Готовим правильно](https://habr.com/ru/company/hh/blog/352150/)
 
+* [Понимание жизненного цикла React-компонента](https://habr.com/ru/post/358090/)
+
+* [Улучшаем ваш React с помощью конечных автоматов](https://medium.com/devschacht/jean-paul-delimat-boost-your-react-with-state-machines-8a22885dc348)
+
+* [Новый контекст React в деталях](http://blog.csssr.ru/2018/04/06/new-react-context)
+
+* [От Редакса к хукам](https://bespoyasov.ru/blog/you-really-dont-need-redux-now/)
+
 
 ## Design Patterns
 
+* [Чистая архитектура. Роберт Мартин](https://bespoyasov.ru/blog/clean-architecture/) / [Часть 2](https://bespoyasov.ru/blog/clean-architecture-2/) / [Часть 3](https://bespoyasov.ru/blog/clean-architecture-3/)
+
+* [Шаблоны проектирования](https://github.com/Hexlet/patterns)
+
+* [Шаблоны проектирования с человеческим лицом](https://habr.com/ru/company/mailru/blog/325492/)
+
+* [Верхнеуровневая архитектура фронтенда.](https://habr.com/ru/company/yandex/blog/425611/)
+
+* [Различия между MVVM и остальными MV*-паттернами](https://habr.com/ru/company/mobileup/blog/313538/)
 
 ## DDD / REST / web API
 
@@ -64,6 +85,11 @@
 
 * [Контур.Гайды](https://guides.kontur.ru/)
 
-* [Атомарный веб-дизайн](https://habr.com/ru/post/249223/) [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
+* [Атомарный веб-дизайн](https://habr.com/ru/post/249223/) / [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
 
 * [Полное руководство по правильному использованию анимации в UX](https://habr.com/ru/post/424383/)
+
+* [Улучшаем дизайн форм](https://medium.com/russian/%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B0%D0%B5%D0%BC-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%84%D0%BE%D1%80%D0%BC-e9b5a5a464e2)
+
+* [Введение в систему 8pt сеток](https://habr.com/ru/company/everydaytools/blog/319700/)
+* [10 Design Rules for Programmers](https://thoughtspile.github.io/2018/12/17/design-crash-course/)
