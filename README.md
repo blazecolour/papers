@@ -62,4 +62,8 @@
 
 ## UI / UX
 
+* [Контур.Гайды](https://guides.kontur.ru/)
+
+* [Атомарный веб-дизайн](https://habr.com/ru/post/249223/) [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
+
 * [Полное руководство по правильному использованию анимации в UX](https://habr.com/ru/post/424383/)
