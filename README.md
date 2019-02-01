@@ -1,5 +1,9 @@
 ## Javascript / Node.js
 
+* [JavaScript. Ядро: 2-ое издание](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition-rus/)
+
+* [Внутренние механизмы V8 и быстрая работа со свойствами объектов](https://habr.com/ru/company/ruvds/blog/337300/)
+
 * [Как работает JS: обзор движка, механизмов времени выполнения, стека вызовов](https://habr.com/ru/company/ruvds/blog/337042/)
 
 * [Как работает JS: цикл событий, асинхронность и пять способов улучшения кода с помощью async / await](https://habr.com/ru/company/ruvds/blog/340508/)
@@ -22,6 +26,8 @@
 
 * [Протоколы HTTP и WebSocket](https://habr.com/ru/company/ruvds/blog/424557/)
 
+* [Как работает JS: WebSocket и HTTP/2+SSE. Что выбрать?](https://habr.com/ru/company/ruvds/blog/342346/)
+
 * [Руководство по кросс-доменным запросам (CORS)](https://grishaev.me/cors)
 
 * [Учебное пособие по кэшированию, часть 1](https://habr.com/ru/post/203548/) [(часть 2)](https://habr.com/ru/post/204464/)
@@ -29,6 +35,8 @@
 * [Лучшие практики кэширования](http://prgssr.ru/development/luchshie-praktiki-keshirovaniya.html)
 
 * [Как работает JS: сервис-воркеры](https://habr.com/ru/company/ruvds/blog/349858/)
+
+* [Service Workers. Инструкция по применению](https://habr.com/ru/company/2gis/blog/345552/)
 
 * [Обзор средств хранения данных на клиентской стороне](http://prgssr.ru/development/obzor-sredstv-hraneniya-dannyh-na-klientskoj-storone.html)
 
@@ -43,7 +51,7 @@
 * []()
 
 
-## React.js
+## React.js / Redux
 
 * [Почему у React элементов есть свойство $$typeof?](https://habr.com/ru/post/432350/)
 
