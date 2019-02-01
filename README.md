@@ -44,14 +44,6 @@
 
 * [Как работает JS: системы хранения данных](https://habr.com/ru/company/ruvds/blog/415505/)
 
-* []()
-
-* []()
-
-* []()
-
-* []()
-
 
 ## React.js / Redux
 
@@ -59,16 +51,15 @@
 
 * [Keys in React. Готовим правильно](https://habr.com/ru/company/hh/blog/352150/)
 
-* []()
-
-* []()
-
-* []()
 
 ## Design Patterns
+
 
 ## DDD / REST / web API
 
 * [А ваша служба является RESTful? Все что необходимо/обязательно знать про веб службы и REST](https://habr.com/ru/post/319984/)
 
+
 ## UI / UX
+
+* [Полное руководство по правильному использованию анимации в UX](https://habr.com/ru/post/424383/)
