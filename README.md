@@ -73,6 +73,10 @@
 
 * [Архитектура модульных React + Redux приложений](https://habr.com/ru/post/326484/)
 
+* [Нянчим проект на React-redux с пелёнок](https://habr.com/ru/company/hh/blog/310524/)
+
+* [React медленный, React быстрый: оптимизация React-приложения на практике](https://habr.com/ru/post/327364/)
+
 * [Что и как тестировать с помощью Jest и Enzyme. Полная инструкция по тестированию React-компонентов](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54)
 
 * [От Редакса к хукам](https://bespoyasov.ru/blog/you-really-dont-need-redux-now/)
