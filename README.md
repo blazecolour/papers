@@ -69,6 +69,10 @@
 
 * [Using React Portals to Render Children Outside the DOM Hierarchy](https://css-tricks.com/using-react-portals-to-render-children-outside-the-dom-hierarchy/)
 
+* [Лучшая архитектура для React проекта](https://blog.maddevs.io/%D0%BB%D1%83%D1%87%D1%88%D0%B0%D1%8F-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%B4%D0%BB%D1%8F-react-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0-2f6f1feedc13) / [Atomic Design](https://github.com/diegohaz/arc/wiki/Atomic-Design)
+
+* [Архитектура модульных React + Redux приложений](https://habr.com/ru/post/326484/)
+
 * [Что и как тестировать с помощью Jest и Enzyme. Полная инструкция по тестированию React-компонентов](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54)
 
 * [От Редакса к хукам](https://bespoyasov.ru/blog/you-really-dont-need-redux-now/)
@@ -90,7 +94,7 @@
 
 * [Шаблоны проектирования с человеческим лицом](https://habr.com/ru/company/mailru/blog/325492/)
 
-* [Верхнеуровневая архитектура фронтенда.](https://habr.com/ru/company/yandex/blog/425611/)
+* [Верхнеуровневая архитектура фронтенда](https://habr.com/ru/company/yandex/blog/425611/)
 
 * [Различия между MVVM и остальными MV*-паттернами](https://habr.com/ru/company/mobileup/blog/313538/)
 
