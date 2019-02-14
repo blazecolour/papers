@@ -26,7 +26,7 @@
 
 * [Понимание критического пути рендеринга](https://habr.com/ru/post/320430/)
 
-* [Простым языком об HTTP](https://habr.com/ru/post/215117/)
+* [Простым языком об HTTP](https://habr.com/ru/post/215117/)- v
 
 * [Протоколы HTTP и WebSocket](https://habr.com/ru/company/ruvds/blog/424557/)
 
@@ -86,7 +86,7 @@
 
 * [Продуманная оптимизация](http://optimization.guide/)
 
-* [Гайд по оптимизации веб- приложений](https://medium.com/@abraztsov/%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-5684280a445d)
+* [Гайд по оптимизации веб - приложений](https://medium.com/@abraztsov/%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-5684280a445d)
 
 * [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/)
 
