@@ -26,7 +26,7 @@
 
 * [Понимание критического пути рендеринга](https://habr.com/ru/post/320430/)
 
-* [Простым языком об HTTP](https://habr.com/ru/post/215117/)- v
+* [Простым языком об HTTP](https://habr.com/ru/post/215117/)
 
 * [Протоколы HTTP и WebSocket](https://habr.com/ru/company/ruvds/blog/424557/)
 
