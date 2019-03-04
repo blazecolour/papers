@@ -123,3 +123,4 @@
 ## other
 
 * [Чек-лист хороших инженерных практик в компаниях](https://guides.hexlet.io/check-list-of-engineering-practices/)
+* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ([перевод](https://habr.com/ru/post/310172/))
