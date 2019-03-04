@@ -106,6 +106,9 @@
 
 * [А ваша служба является RESTful? Все что необходимо/обязательно знать про веб службы и REST](https://habr.com/ru/post/319984/)
 
+## TDD
+
+* [Начинаем писать тесты (правильно)](https://ru.hexlet.io/blog/posts/how-to-test-code)
 
 ## UI / UX
 
@@ -124,3 +127,10 @@
 
 * [Чек-лист хороших инженерных практик в компаниях](https://guides.hexlet.io/check-list-of-engineering-practices/)
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ([перевод](https://habr.com/ru/post/310172/))
+
+
+## videos
+
+* [Ментальное программирование (Кирилл Мокевнин)](https://www.youtube.com/watch?v=EEq1wdM2M2w)
+* [Ментальное программирование 2.0 (Кирилл Мокевнин)](https://www.youtube.com/watch?v=Hk_uSvADUIo)
+* []()
