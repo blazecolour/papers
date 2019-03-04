@@ -124,6 +124,12 @@
 * [Введение в систему 8pt сеток](https://habr.com/ru/company/everydaytools/blog/319700/)
 * [10 Design Rules for Programmers](https://thoughtspile.github.io/2018/12/17/design-crash-course/)
 
+## Accessibility
+
+* [Web Accessibility Checklist](https://a11yproject.com/checklist)
+* [Доступность интерфейсов. Лекция Яндекса](https://habr.com/ru/company/yandex/blog/424879/)
+* [Inclusive Components](https://inclusive-components.design/#components)
+
 ## other
 
 * [Чек-лист хороших инженерных практик в компаниях](https://guides.hexlet.io/check-list-of-engineering-practices/)
