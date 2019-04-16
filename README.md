@@ -10,6 +10,8 @@
 
 * [Как работает JS: цикл событий, асинхронность и пять способов улучшения кода с помощью async / await](https://habr.com/ru/company/ruvds/blog/340508/)
 
+* [Tips for using async functions](http://2ality.com/2016/10/async-function-tips.html)
+
 * [Цикл событий Node.js, таймеры и process.nextTick()](https://medium.com/devschacht/event-loop-timers-and-nexttick-18579cd122e0)
 
 * [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) ([перевод](https://habr.com/ru/post/264993/))
@@ -26,7 +28,7 @@
 
 * [Понимание критического пути рендеринга](https://habr.com/ru/post/320430/)
 
-* [Простым языком об HTTP](https://habr.com/ru/post/215117/)- v
+* [Простым языком об HTTP](https://habr.com/ru/post/215117/)
 
 * [Протоколы HTTP и WebSocket](https://habr.com/ru/company/ruvds/blog/424557/)
 
@@ -106,6 +108,10 @@
 
 * [А ваша служба является RESTful? Все что необходимо/обязательно знать про веб службы и REST](https://habr.com/ru/post/319984/)
 
+## TDD
+
+* [Начинаем писать тесты (правильно)](https://ru.hexlet.io/blog/posts/how-to-test-code)
+* [Что и как тестировать с помощью Jest и Enzyme. Полная инструкция по тестированию React-компонентов](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54)
 
 ## UI / UX
 
@@ -120,6 +126,25 @@
 * [Введение в систему 8pt сеток](https://habr.com/ru/company/everydaytools/blog/319700/)
 * [10 Design Rules for Programmers](https://thoughtspile.github.io/2018/12/17/design-crash-course/)
 
+## Accessibility
+
+* [Web Accessibility Checklist](https://a11yproject.com/checklist)
+
+* [Доступность интерфейсов. Лекция Яндекса](https://habr.com/ru/company/yandex/blog/424879/)
+
+* [Inclusive Components](https://inclusive-components.design/#components)
+
 ## other
 
 * [Чек-лист хороших инженерных практик в компаниях](https://guides.hexlet.io/check-list-of-engineering-practices/)
+
+* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ([перевод](https://habr.com/ru/post/310172/))
+
+
+## videos
+
+* [Ментальное программирование (Кирилл Мокевнин)](https://www.youtube.com/watch?v=EEq1wdM2M2w)
+
+* [Ментальное программирование 2.0 (Кирилл Мокевнин)](https://www.youtube.com/watch?v=Hk_uSvADUIo)
+
+* []()
