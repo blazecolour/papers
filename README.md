@@ -1,4 +1,5 @@
-## Javascript / Node.js
+<details>
+<summary>## Javascript / Node.js</summary>
 
 * [JavaScript. Ядро: 2-ое издание](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition-rus/)
 
@@ -49,7 +50,7 @@
 * [Как работает JS: системы хранения данных](https://habr.com/ru/company/ruvds/blog/415505/)
 
 * [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
-
+</details>
 
 ## React.js / Redux
 
