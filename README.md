@@ -1,5 +1,5 @@
 <details>
-<summary>## Javascript / Node.js</summary>
+<summary><h1>Javascript / Node.js</h1></summary>
 
 * [JavaScript. Ядро: 2-ое издание](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition-rus/)
 
