@@ -1,4 +1,4 @@
-## Javascript / Node.js
+### Javascript / Node.js
 <details>
 <summary>Подробнее...</summary>
 
@@ -55,7 +55,7 @@
 * [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
 </details>
 
-## React.js / Redux
+### React.js / Redux
 <details>
 <summary>Подробнее...</summary>
 
@@ -90,7 +90,7 @@
 * [От Редакса к хукам](https://bespoyasov.ru/blog/you-really-dont-need-redux-now/)
 </details>
 
-## Performance
+### Performance
 <details>
 <summary>Подробнее...</summary>
 
@@ -101,9 +101,11 @@
 * [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/)
 </details>
 
-## Design Patterns
+### Design Patterns
 <details>
 <summary>Подробнее...</summary>
+
+* [SOLID](https://ota-solid.now.sh/)
 
 * [Чистая архитектура. Роберт Мартин](https://bespoyasov.ru/blog/clean-architecture/) / [Часть 2](https://bespoyasov.ru/blog/clean-architecture-2/) / [Часть 3](https://bespoyasov.ru/blog/clean-architecture-3/)
 
@@ -116,21 +118,21 @@
 * [Различия между MVVM и остальными MV*-паттернами](https://habr.com/ru/company/mobileup/blog/313538/)
 </details>
 
-## DDD / REST / web API
+### DDD / REST / web API
 <details>
 <summary>Подробнее...</summary>
 
 * [А ваша служба является RESTful? Все что необходимо/обязательно знать про веб службы и REST](https://habr.com/ru/post/319984/)
 </details>
 
-## TDD
+### TDD
 <details>
 <summary>Подробнее...</summary>
 
 * [Начинаем писать тесты (правильно)](https://ru.hexlet.io/blog/posts/how-to-test-code)
 </details>
 
-## UI / UX
+### UI / UX
 <details>
 <summary>Подробнее...</summary>
 
@@ -146,7 +148,7 @@
 * [10 Design Rules for Programmers](https://thoughtspile.github.io/2018/12/17/design-crash-course/)
 </details>
 
-## Accessibility
+### Accessibility
 <details>
 <summary>Подробнее...</summary>
 
@@ -157,7 +159,7 @@
 * [Inclusive Components](https://inclusive-components.design/#components)
 </details>
 
-## other
+### other
 <details>
 <summary>Подробнее...</summary>
 
@@ -166,7 +168,7 @@
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ([перевод](https://habr.com/ru/post/310172/))
 </details>
 
-## videos
+### videos
 <details>
 <summary>Подробнее...</summary>
 
