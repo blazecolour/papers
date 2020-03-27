@@ -1,11 +1,14 @@
 ## Javascript / Node.js
 <details>
 <summary>Подробнее...</summary>
+
 * [JavaScript. Ядро: 2-ое издание](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition-rus/)
 
 * [Справочник современных концепций JavaScript](https://github.com/devSchacht/translations/tree/master/articles/glossary_of_modern_javaScript_concepts_part_1) / [Часть 2](https://github.com/devSchacht/translations/tree/master/articles/kim-maida-glossary-of-modern-javascript-concepts-part-2)
 
-* [Внутренние механизмы V8 и быстрая работа со свойствами объектов](https://habr.com/ru/company/ruvds/blog/337300/)
+* [Understanding the ECMAScript spec](https://v8.dev/blog/understanding-ecmascript-part-1) / [part 2](https://v8.dev/blog/understanding-ecmascript-part-2)
+
+* [Fast properties in V8](https://v8.dev/blog/fast-properties) ([перевод](https://habr.com/ru/company/ruvds/blog/337300/))
 
 * [Как работает JS: обзор движка, механизмов времени выполнения, стека вызовов](https://habr.com/ru/company/ruvds/blog/337042/)
 
@@ -13,7 +16,7 @@
 
 * [Tips for using async functions](http://2ality.com/2016/10/async-function-tips.html)
 
-* [Цикл событий Node.js, таймеры и process.nextTick()](https://medium.com/devschacht/event-loop-timers-and-nexttick-18579cd122e0)
+* [Цикл событий Node.js, таймеры и process.nextTick()](https://github.com/devSchacht/translations/tree/master/articles/event-loop-timers-and-nexttick)
 
 * [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) ([перевод](https://habr.com/ru/post/264993/))
 
@@ -53,6 +56,8 @@
 </details>
 
 ## React.js / Redux
+<details>
+<summary>Подробнее...</summary>
 
 * [React component structure](https://github.com/artalar/blog/blob/master/src/pages/react-component-structure.md)
 
@@ -83,17 +88,22 @@
 * [Что и как тестировать с помощью Jest и Enzyme. Полная инструкция по тестированию React-компонентов](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54)
 
 * [От Редакса к хукам](https://bespoyasov.ru/blog/you-really-dont-need-redux-now/)
-
+</details>
 
 ## Performance
+<details>
+<summary>Подробнее...</summary>
 
 * [Продуманная оптимизация](http://optimization.guide/)
 
 * [Гайд по оптимизации веб - приложений](https://medium.com/@abraztsov/%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-5684280a445d)
 
 * [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/)
+</details>
 
 ## Design Patterns
+<details>
+<summary>Подробнее...</summary>
 
 * [Чистая архитектура. Роберт Мартин](https://bespoyasov.ru/blog/clean-architecture/) / [Часть 2](https://bespoyasov.ru/blog/clean-architecture-2/) / [Часть 3](https://bespoyasov.ru/blog/clean-architecture-3/)
 
@@ -104,17 +114,25 @@
 * [Верхнеуровневая архитектура фронтенда](https://habr.com/ru/company/yandex/blog/425611/)
 
 * [Различия между MVVM и остальными MV*-паттернами](https://habr.com/ru/company/mobileup/blog/313538/)
+</details>
 
 ## DDD / REST / web API
+<details>
+<summary>Подробнее...</summary>
 
 * [А ваша служба является RESTful? Все что необходимо/обязательно знать про веб службы и REST](https://habr.com/ru/post/319984/)
+</details>
 
 ## TDD
+<details>
+<summary>Подробнее...</summary>
 
 * [Начинаем писать тесты (правильно)](https://ru.hexlet.io/blog/posts/how-to-test-code)
-* [Что и как тестировать с помощью Jest и Enzyme. Полная инструкция по тестированию React-компонентов](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54)
+</details>
 
 ## UI / UX
+<details>
+<summary>Подробнее...</summary>
 
 * [Контур.Гайды](https://guides.kontur.ru/)
 
@@ -126,26 +144,33 @@
 
 * [Введение в систему 8pt сеток](https://habr.com/ru/company/everydaytools/blog/319700/)
 * [10 Design Rules for Programmers](https://thoughtspile.github.io/2018/12/17/design-crash-course/)
+</details>
 
 ## Accessibility
+<details>
+<summary>Подробнее...</summary>
 
 * [Web Accessibility Checklist](https://a11yproject.com/checklist)
 
 * [Доступность интерфейсов. Лекция Яндекса](https://habr.com/ru/company/yandex/blog/424879/)
 
 * [Inclusive Components](https://inclusive-components.design/#components)
+</details>
 
 ## other
+<details>
+<summary>Подробнее...</summary>
 
 * [Чек-лист хороших инженерных практик в компаниях](https://guides.hexlet.io/check-list-of-engineering-practices/)
 
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ([перевод](https://habr.com/ru/post/310172/))
-
+</details>
 
 ## videos
+<details>
+<summary>Подробнее...</summary>
 
 * [Ментальное программирование (Кирилл Мокевнин)](https://www.youtube.com/watch?v=EEq1wdM2M2w)
 
 * [Ментальное программирование 2.0 (Кирилл Мокевнин)](https://www.youtube.com/watch?v=Hk_uSvADUIo)
-
-* []()
+</details>
