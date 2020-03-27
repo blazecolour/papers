@@ -1,5 +1,6 @@
 ## Javascript / Node.js
 <details>
+
 * [JavaScript. Ядро: 2-ое издание](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition-rus/)
 
 * [Справочник современных концепций JavaScript](https://github.com/devSchacht/translations/tree/master/articles/glossary_of_modern_javaScript_concepts_part_1) / [Часть 2](https://github.com/devSchacht/translations/tree/master/articles/kim-maida-glossary-of-modern-javascript-concepts-part-2)
